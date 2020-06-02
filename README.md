@@ -40,7 +40,7 @@ git clone  [url]
 ```
 #
 #
-# STAGING ENVIRONMENT – adding to stage env and making commit
+# STAGING ENVIRONMENT – adding to stage environment and making commit.
 
 ```
 git status
